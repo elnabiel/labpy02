@@ -40,25 +40,35 @@ Dan hasil program sebagai berikut:
 
 ![Screenshot 2024-10-22 111235](https://github.com/user-attachments/assets/e969dd4f-8ee2-4869-8130-44964d570cf7)
 
+
 Dan hasil program sebagai berikut:
+
 
 ![Screenshot 2024-10-22 111930](https://github.com/user-attachments/assets/fcaa3e81-f8bd-49eb-a738-4566d11118f6)
 
+
 # Latihan 3: penggunaan kondisi OR program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan “BENAR”
+
 
 ![Screenshot 2024-10-28 165230](https://github.com/user-attachments/assets/8658dfe4-d851-4ba0-8ad1-1afd0daea600)
 
+
 Dengan eksekusi program:
+
 
 ![Screenshot 2024-10-22 113105](https://github.com/user-attachments/assets/96c1d6ea-a87c-49a2-aa26-aeb8405c8a7e)
 
+
 Dan hasil program:
 
+
 Jika hasilnya salah, maka program akan menyatakan salah
+
 
 ![Screenshot 2024-10-22 113156](https://github.com/user-attachments/assets/1da9b6f3-a71e-47c4-9dc3-fbf033712049)
 
 jika hasilnya benar, maka program akan menyatakan benar
+
 
 ![Screenshot 2024-10-22 113145](https://github.com/user-attachments/assets/80f069e4-59ea-4cf8-bf08-329a4f637861)
 
@@ -77,27 +87,33 @@ Di dalam kode ini terdapat 4 kemungkinan
 <p>####jika membeli tiket vip dan mempunyai member maka pembeli mendapatkan diskon 20% sehingga hanya membayar tiket Rp.80.000</p>
 
 hasil program
+
 ![Screenshot 2024-10-28 170458](https://github.com/user-attachments/assets/daa10306-d477-4dd0-842e-a952d1c4974c)
 
 Flowchart:
+
 ![flowtiket1](https://github.com/user-attachments/assets/dc95694d-99a3-4a63-b4ff-31acd881bb60)
 
 # Latihan 3: Program kalkulator sederhana
+
 ![Screenshot 2024-10-28 165757](https://github.com/user-attachments/assets/99aedc30-8fa2-45d1-bfd4-c39f9024dc2e)
 
 Dengan eksekusi program
+
 ![Screenshot 2024-10-22 185732](https://github.com/user-attachments/assets/2fe51265-121b-49ed-805a-4003485a1708)
 
-#masukan angka yang ingin dijumlahkan beserta symbolnya
-#symbol * untuk perkalian
-#symbol / untuk pembagian
-#symbol + untuk penjumlahan
-#symbol - untuk pengurangan
+<p>#masukan angka yang ingin dijumlahkan beserta symbolnya</p>
+<p>#symbol * untuk perkalian</p>
+<p>#symbol / untuk pembagian</p>
+<p>#symbol + untuk penjumlahan</p>
+<p>#symbol - untuk pengurangan</p>
 
 Hasil program:
+
 ![Screenshot 2024-10-22 185743](https://github.com/user-attachments/assets/317bbc1e-c52f-4523-b075-ca46109b8ea3)
 
 Flowchart:
+
 ![flowkalkulator](https://github.com/user-attachments/assets/d49fd523-0403-40d4-b58e-97a6e5ef8eb8)
 
 
